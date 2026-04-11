@@ -176,12 +176,5 @@ kirana-cashflow-ai/
 
 ---
 
-## ⚠️ Limitations & Disclaimer
 
-- Estimates are based on visual and geo proxies — not financial statements
-- AI confidence < 0.5 should trigger mandatory physical verification
-- Not a substitute for field credit assessment
-- For NBFC internal use only as a pre-screening tool
-
----
 
